@@ -1,2 +1,1 @@
-# InterviewProject
-InterviewProject
+# React Interview Project

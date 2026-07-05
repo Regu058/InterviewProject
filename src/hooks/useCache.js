@@ -1,0 +1,1 @@
+import {useRef} from 'react';export default function useCache(){const c=useRef({});return{setCache:(k,v)=>c.current[k]=v,getCache:(k)=>c.current[k]};}
